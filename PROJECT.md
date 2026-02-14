@@ -18,9 +18,9 @@ Restaurants and hospitality businesses with 2-10 locations. Too busy to track re
 ## Revenue Model
 
 Monthly subscriptions:
-- **Starter** $299/mo — Google + Yelp, daily digest, draft responses
-- **Growth** $599/mo — All platforms + competitors + weekly report (Most Popular)
-- **Premium** $999/mo — Everything + we post on your behalf + monthly strategy call
+- **Starter** $99/mo — Google + Yelp, daily digest, draft responses
+- **Growth** $199/mo — All platforms + competitors + weekly report + negative alerts (Most Popular)
+- **Premium** $499/mo — Everything + we post on their behalf + monthly strategy call + multi-location
 
 ## Sales Strategy
 
