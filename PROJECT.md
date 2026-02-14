@@ -1,4 +1,4 @@
-# RepGuard
+# RepWatch
 
 **Domain:** replypulse.io (needs to update to repguard.io)
 **GitHub:** github.com/davidmercernyc-design/replypulse (repo can stay or rename)
@@ -9,7 +9,7 @@
 
 ## What It Is
 
-RepGuard monitors every mention of your business across Google, Yelp, TripAdvisor, and social media. We alert you instantly when something needs attention — and draft responses you can approve and post.
+RepWatch monitors every mention of your business across Google, Yelp, TripAdvisor, and social media. We alert you instantly when something needs attention — and draft responses you can approve and post.
 
 ## Target Customer
 
@@ -51,7 +51,7 @@ Monthly subscriptions:
 | Date | Decision | Reasoning |
 |------|----------|-----------|
 | 2025-02-13 | Niche: Local businesses | High volume, easy to sell, obvious ROI |
-| 2026-02-13 | Name: RepGuard | Protection + enhancement angle |
+| 2026-02-13 | Name: RepWatch | Protection + enhancement angle |
 | 2026-02-13 | Delivery: Alert-based | No daily emails — only when something needs attention |
 | 2026-02-13 | Pricing: $79/$149/$349 | Adjusted down from $99/$199/$499 |
 
