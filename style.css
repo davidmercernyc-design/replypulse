@@ -138,7 +138,7 @@ section > .container > .section-sub { text-align: center; margin-left: auto; mar
   padding: 44px 32px; position: relative; transition: border-color 0.3s, transform 0.3s;
 }
 .step-card:hover { border-color: var(--accent); transform: translateY(-4px); }
-.step-num { font-size: 0.75rem; font-weight: 700; color: var(--accent); letter-spacing: 1px; margin-bottom: 20px; }
+.step-num { font-size: 0.85rem; font-weight: 700; color: var(--accent); letter-spacing: 1px; margin-bottom: 20px; display: inline-block; width: 48px; height: 48px; line-height: 48px; text-align: center; border-radius: 50%; background: rgba(99,102,241,0.15); border: 1px solid rgba(99,102,241,0.3); }
 .step-icon { font-size: 2.2rem; margin-bottom: 20px; }
 .step-card h3 { font-size: 1.25rem; font-weight: 700; margin-bottom: 12px; }
 .step-card p { color: var(--text-muted); font-size: 0.95rem; line-height: 1.6; }
