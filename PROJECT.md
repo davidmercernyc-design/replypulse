@@ -9,73 +9,66 @@
 
 ## What It Is
 
-ReviewDefender watches your business reputation so you don't have to.
+ReviewDefender protects local business reputations with daily scans.
 
-**Simple:** We scan Google, Yelp, TripAdvisor, and social media. You get an alert only when something needs attention.
+**Daily Scan:** Every morning at 8am, we scan Google, Yelp, TripAdvisor, Reddit, X, and YouTube for mentions of your business.
 
-**Clear:** See your Reputation Score at a glance. Track competitors. Know exactly where you stand.
+**Response Help:** When there's a negative review, we tell you exactly how to respond.
 
-**Insurance:** One bad review can go viral and cost you thousands. $79/mo is cheap protection.
+**Simple Price:** $79/month — everything included.
 
 ## The Pitch
 
-> "We watch your reputation so you don't have to. One bad review can cost $10k — we cost $79/mo."
+> "Every day, we scan Google, Yelp, TripAdvisor, Reddit, X, and YouTube. If someone leaves a negative review — we tell you exactly how to respond. $79/month."
 
 ## Target Customer
 
 Local businesses (restaurants, salons, clinics, auto shops, gyms, etc.) with 1-10 locations. Too busy to check every platform manually.
 
-## Pricing (Simple & Clear)
+## Pricing
 
-- **Starter** $79/mo — Monitor Google + Yelp, alerts when you get a bad review, AI-drafted response you can copy-paste
-- **Growth** $149/mo — All platforms + priority support
-- **Premium** $349/mo — Everything + multi-location + priority support
+- **$79/month** — Everything included
+  - Daily scan at 8am
+  - Google, Yelp, TripAdvisor, Reddit, X, YouTube
+  - Daily email report
+  - Response help (we tell you exactly what to say)
+  - Email support
 
-## Features (Simple & Clear)
+No contracts. Cancel anytime. 14-day free trial.
 
-### 🔔 Alerts Only When It Matters
-- Get notified the moment a negative review appears
-- No daily digests — we only ping you when action is needed
+## What We Scan
 
-### 📝 Ready-to-Copy Responses
-- AI writes the response for you
-- You edit and post it yourself (we don't post for you)
-- Keeps you in control, simple for us
-
-### 📊 Reputation Scorecard
-- Weekly score (0-100) based on your reviews
-- See how you trend over time
-- Compare to local competitors
-
-### 🛡️ Reputation Insurance
-- "One bad review can cost you $10k. We cost $79/mo."
-- Frame it as protection, not just monitoring
+| Platform | What we find |
+|----------|-------------|
+| Google | Reviews, business listings |
+| Yelp | Reviews |
+| TripAdvisor | Reviews |
+| Reddit | Posts and comments |
+| X / Twitter | Tweets and replies |
+| YouTube | Videos and comments |
 
 ## Goals
 
-- [ ] Purchase reviewdefender.io domain
-- [ ] Connect domain to Vercel
+- [x] Purchase reviewdefender.io domain
+- [ ] Connect domain to Vercel (point DNS)
 - [ ] Set up hello@reviewdefender.io email
 - [ ] Cold outreach email templates
 - [ ] Land first paying client
-- [ ] 5 clients → $1,500-3,000/mo
-- [ ] 20 clients → $6,000-12,000/mo
+- [ ] 5 clients → $395/mo
+- [ ] 20 clients → $1,580/mo
 
 ## Costs
 
-- Domain: ~$15-30/yr
+- Domain: $12/yr (already purchased)
 - Hosting: Free (Vercel)
-- Email: Google Workspace ~$7/mo for hello@reviewdefender.io
-- API costs for scraping: Minimal
+- Email: Google Workspace ~$7/mo (optional)
+- API costs: Minimal (Brave Search, web scraping)
 
-## Decisions Log
+## How It Works
 
-| Date | Decision | Reasoning |
-|------|----------|-----------|
-| 2025-02-13 | Niche: Local businesses | High volume, easy to sell, obvious ROI |
-| 2026-02-13 | Name: ReviewDefender | We watch their reputation - monitoring + protection |
-| 2026-02-13 | Delivery: Alert-based | No daily emails — only when something needs attention |
-| 2026-02-13 | Pricing: $79/$149/$349 | Adjusted down from $99/$199/$499 |
+1. **Tell us your business** — Give us your business name. We scan Google, Yelp, TripAdvisor, Reddit, X, and YouTube.
+2. **We scan every morning at 8am** — Every day, we check every platform for new posts and reviews about your business.
+3. **We write your response** — When there's a negative review, we tell you exactly how to respond. Copy, paste, done.
 
 ## Progress
 
@@ -86,14 +79,22 @@ Local businesses (restaurants, salons, clinics, auto shops, gyms, etc.) with 1-1
 - ✅ Formspree contact form hooked up
 - ✅ Brave Search API configured
 - ✅ Free audit generator built + tested
-- ⬜ Purchase reviewdefender.io domain
+
+### 2026-02-16
+- ✅ Rebranded to ReviewDefender
+- ✅ Simplified to one tier ($79/mo)
+- ✅ Added all platform logos
+- ✅ Daily 8am scan messaging
+- ✅ Response help as key feature
 - ⬜ Connect domain to Vercel
-- ⬜ Cold outreach email templates
-- ⬜ Land first paying client
+- ⬜ Set up email
+- ⬜ Cold outreach
+- ⬜ First client
 
 ---
 
 ## Notes
 
-- Pitch: "We watch your reputation so you don't have to"
-- Logo idea: Eye + checkmark or simple eye icon
+- Product: Daily scan at 8am + response help
+- Price: $79/month (one tier)
+- Key differentiator: We tell you exactly what to say in response
