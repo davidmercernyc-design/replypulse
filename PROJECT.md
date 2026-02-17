@@ -9,27 +9,47 @@
 
 ## What It Is
 
-RepWatch monitors every mention of your business across Google, Yelp, TripAdvisor, and social media. We alert you instantly when something needs attention — and draft responses you can approve and post.
+RepWatch watches your business reputation so you don't have to.
+
+**Simple:** We scan Google, Yelp, TripAdvisor, and social media. You get an alert only when something needs attention.
+
+**Clear:** See your Reputation Score at a glance. Track competitors. Know exactly where you stand.
+
+**Insurance:** One bad review can go viral and cost you thousands. $79/mo is cheap protection.
+
+## The Pitch
+
+> "We watch your reputation so you don't have to. One bad review can cost $10k — we cost $79/mo."
 
 ## Target Customer
 
 Local businesses (restaurants, salons, clinics, auto shops, gyms, etc.) with 1-10 locations. Too busy to check every platform manually.
 
-## Revenue Model
+## Pricing (Simple & Clear)
 
-Monthly subscriptions:
-- **Starter** $79/mo — Google + Yelp monitoring, negative alerts, response drafts
-- **Growth** $149/mo — All platforms + competitor tracking + priority support
-- **Premium** $349/mo — Everything + we post for you + monthly strategy call + multi-location
+- **Starter** $79/mo — Monitor Google + Yelp, alerts when you get a bad review, AI-drafted response you can copy-paste
+- **Growth** $149/mo — All platforms + priority support
+- **Premium** $349/mo — Everything + multi-location + priority support
 
-## Sales Strategy
+## Features (Simple & Clear)
 
-**Lead magnet:** Free Reputation Audit — we scan their reviews and show them what they're missing. Creates urgency.
+### 🔔 Alerts Only When It Matters
+- Get notified the moment a negative review appears
+- No daily digests — we only ping you when action is needed
 
-**Acquisition channels:**
-- Cold email outreach to business owners
-- Free audit requests from the website
-- Eventually: SEO, referrals, partnerships
+### 📝 Ready-to-Copy Responses
+- AI writes the response for you
+- You edit and post it yourself (we don't post for you)
+- Keeps you in control, simple for us
+
+### 📊 Reputation Scorecard
+- Weekly score (0-100) based on your reviews
+- See how you trend over time
+- Compare to local competitors
+
+### 🛡️ Reputation Insurance
+- "One bad review can cost you $10k. We cost $79/mo."
+- Frame it as protection, not just monitoring
 
 ## Goals
 
